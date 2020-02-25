@@ -1,0 +1,21 @@
+@import "common";
+
+body {
+
+}
+
+@font-face {
+    font-family: robot; //自定义字体名称
+    src: url(../../assets/css/font/RobotoThin.ttf)
+}
+
+.homeContent{
+	background: red;
+    max-height: 100%;
+    height: calc(80vh - 55px);
+}
+
+
+
+
+
